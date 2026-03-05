@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">万年历</string>
+
+    <!-- 导航 -->
+    <string name="nav_calendar">日历</string>
+    <string name="nav_birthday">生日</string>
+    <string name="nav_task">任务</string>
+    <string name="nav_settings">设置</string>
+
+    <!-- 日历视图 -->
+    <string name="view_year">年视图</string>
+    <string name="view_month">月视图</string>
+    <string name="view_week">周视图</string>
+    <string name="view_day">日视图</string>
+
+    <!-- 星期 -->
+    <string name="week_sun">日</string>
+    <string name="week_mon">一</string>
+    <string name="week_tue">二</string>
+    <string name="week_wed">三</string>
+    <string name="week_thu">四</string>
+    <string name="week_fri">五</string>
+    <string name="week_sat">六</string>
+
+    <!-- 生日 -->
+    <string name="birthday_add">添加生日</string>
+    <string name="birthday_edit">编辑生日</string>
+    <string name="birthday_name">姓名</string>
+    <string name="birthday_relation">关系</string>
+    <string name="birthday_type">类型</string>
+    <string name="birthday_date">生日日期</string>
+    <string name="birthday_remark">备注</string>
+    <string name="birthday_reminder">提醒设置</string>
+    <string name="birthday_remind_1day">提前 1 天</string>
+    <string name="birthday_remind_3day">提前 3 天</string>
+    <string name="birthday_remind_7day">提前 7 天</string>
+
+    <!-- 任务 -->
+    <string name="task_add">添加任务</string>
+    <string name="task_edit">编辑任务</string>
+    <string name="task_title">任务标题</string>
+    <string name="task_desc">任务描述</string>
+    <string name="task_deadline">截止时间</string>
+    <string name="task_category">分类</string>
+    <string name="task_priority">优先级</string>
+    <string name="task_repeat">重复规则</string>
+    <string name="task_repeat_none">不重复</string>
+    <string name="task_repeat_daily">每日</string>
+    <string name="task_repeat_weekly">每周</string>
+    <string name="task_repeat_monthly">每月</string>
+    <string name="task_repeat_yearly">每年</string>
+    <string name="task_priority_high">高</string>
+    <string name="task_priority_medium">中</string>
+    <string name="task_priority_low">低</string>
+
+    <!-- 黄历 -->
+    <string name="almanac_yi">宜</string>
+    <string name="almanac_ji">忌</string>
+    <string name="almanac_chong">冲</string>
+    <string name="almanac_sha">煞</string>
+    <string name="almanac_pengzu">彭祖百忌</string>
+    <string name="almanac_tiaoshen">胎神方位</string>
+
+    <!-- 设置 -->
+    <string name="setting_dark_mode">暗黑模式</string>
+    <string name="setting_follow_system">跟随系统</string>
+    <string name="setting_backup">备份数据</string>
+    <string name="setting_restore">恢复数据</string>
+    <string name="setting_backup_success">备份成功</string>
+    <string name="setting_restore_success">恢复成功</string>
+
+    <!-- 通用 -->
+    <string name="btn_save">保存</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_delete">删除</string>
+    <string name="btn_confirm">确认</string>
+    <string name="btn_import">导入</string>
+    <string name="btn_export">导出</string>
+    <string name="hint_search">搜索...</string>
+    <string name="error_input">请输入完整信息</string>
+    <string name="error_date">日期无效</string>
+
+    <!-- 关系选项 -->
+    <string-array name="relation_array">
+        <item>父母</item>
+        <item>配偶</item>
+        <item>子女</item>
+        <item>兄弟姐妹</item>
+        <item>朋友</item>
+        <item>同事</item>
+        <item>其他</item>
+    </string-array>
+
+    <!-- 节日 -->
+    <string name="holiday_new_year">元旦</string>
+    <string name="holiday_spring">春节</string>
+    <string name="holiday_qingming">清明</string>
+    <string name="holiday_labour">劳动节</string>
+    <string name="holiday_dragon">端午</string>
+    <string name="holiday_midautumn">中秋</string>
+    <string name="holiday_national">国庆</string>
+</resources>

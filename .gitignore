@@ -1,0 +1,55 @@
+# Gradle 文件
+*.gradle
+build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.hprof
+
+# Kotlin
+*.kotlin_module
+
+# Generated files
+*.gen/
+*.generated/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# APK
+*.apk
+*.ap_
+
+# DEX
+*.dex
+
+# Class files
+*.class
+
+# NDK
+obj/
+
+# ProGuard
+proguard/
+
+# Lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Keystore
+*.jks
+*.keystore
+!debug.keystore
+
+# Sensitive files
+google-services.json
+fabric.properties
+sentry.properties
